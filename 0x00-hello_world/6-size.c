@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     printf("Size of char: %ld byte(s)\n", sizeof(char));
     printf("Size of short: %ld byte(s)\n", sizeof(short));
     printf("Size of int: %ld byte(s)\n", sizeof(int));
@@ -9,6 +10,6 @@ int main() {
     printf("Size of float: %ld byte(s)\n", sizeof(float));
     printf("Size of double: %ld byte(s)\n", sizeof(double));
     printf("Size of long double: %ld byte(s)\n", sizeof(long double));
-    return 0;
+    return (0);
 }
 
