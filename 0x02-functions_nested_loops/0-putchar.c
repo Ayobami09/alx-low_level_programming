@@ -1,10 +1,17 @@
-#include <main.h>
+#include "main.h"
 
-main(void) /*
-		*This program prints _putchar
-		*\
+int main(void)
 {
-	printf("_puchar/n");
+    putchar('_');
+    putchar('p');
+    putchar('u');
+    putchar('t');
+    putchar('c');
+    putchar('h');
+    putchar('a');
+    putchar('r');
+    putchar('\n');
 
-	return (0);
+    return 0;
 }
+
