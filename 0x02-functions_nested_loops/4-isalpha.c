@@ -4,8 +4,8 @@
  *
  * @c: checks input of function
  *
- * Retun: returns 1 if 'c' is a letter
- * 	otherwise always 0 (Success)
+ * Return: returns 1 if 'c' is a letter
+ * otherwise always 0 (Success)
  */
 
 int _isalpha(int c)
