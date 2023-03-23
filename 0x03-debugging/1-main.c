@@ -15,7 +15,10 @@ int main(void)
 
 	while (i < 10)
 	{
-		putchar(i); /* There should be an increment argument here*/
+	/**
+	 * putchar(i) - an increment argument
+	 *
+	 */
 	}
 
 	printf("Infinite loop avoided! \\o/\n");
